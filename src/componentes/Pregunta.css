@@ -1,0 +1,19 @@
+
+.contenido-pregunta{
+    background-color: black;
+    color:white;
+    font-size: larger;
+}
+
+.boton{
+    width: 100px;
+    height: 100px;
+    transition: 1s;
+    background-color:brown;
+}
+.boton:hover{
+    transform: scale(1.2);
+    background-color: black;
+    color:white;
+    font-size: larger;
+}
